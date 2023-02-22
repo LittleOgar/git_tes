@@ -1,2 +1,2 @@
-# git_tes
+# git_test
 My First Github repository
